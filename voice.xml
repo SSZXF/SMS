@@ -1,0 +1,3 @@
+<Response>
+  <Say voice="alice" language="zh-CN">您好，这是特科语音测试电话。</Say>
+</Response>
